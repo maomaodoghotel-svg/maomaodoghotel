@@ -1,0 +1,7 @@
+{
+  "name": "PawPal Health Tracker",
+  "description": "A comprehensive health, diet, and activity tracking application for dogs featuring AI-powered food analysis and long-term trend visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
